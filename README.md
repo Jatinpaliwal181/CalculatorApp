@@ -25,6 +25,10 @@ A simple and intuitive calculator application built using Kotlin for Android dev
 
 ## Screenshots
 
+![Screenshot_1](https://github.com/user-attachments/assets/41a3daa8-2d1e-4fdc-a292-16cbcdbeb0b4)
+![Screenshot_2](https://github.com/user-attachments/assets/44f1e46e-1711-45dd-a813-01fa66cae6c6)
+
+
 
 ## Author
 **Jatin Paliwal**  
